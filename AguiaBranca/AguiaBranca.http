@@ -1,0 +1,6 @@
+@AguiaBranca_HostAddress = http://localhost:5222
+
+GET {{AguiaBranca_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
